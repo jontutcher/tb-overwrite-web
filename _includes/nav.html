@@ -13,7 +13,7 @@
                   {% for p in site.pages %}
                   {% if p.menu %}
                     <li>
-                      <a class="page-scroll" href="{{ p.url }}">{{ p.title }}</a>
+                      <a class="page-scroll" href="{{ p.url | prepend: site.github.url }}">{{ p.title }}</a>
                     </li>
                   {% endif %}
                   {% endfor %}

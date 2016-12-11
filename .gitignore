@@ -5,7 +5,6 @@ _site
 # Created by https://www.gitignore.io/api/bower,jekyll,sass
 
 ### Bower ###
-bower_components
 .bower-cache
 .bower-registry
 .bower-tmp

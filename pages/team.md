@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: Team
 menu: The Team
 permalink: /team/
 ---
 
-This is a team page
+# The Team
+
+The team is the set of people that put the production together. 

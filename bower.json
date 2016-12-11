@@ -1,0 +1,21 @@
+{
+  "name": "overwrite-web",
+  "authors": [
+    "Jon Tutcher <jon@jtutcher.co.uk>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
